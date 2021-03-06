@@ -1,0 +1,39 @@
+---
+layout: default
+title: Mohamad Rido
+description: Author & 3D Modeler
+---
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5531330043170221"
+     data-ad-slot="8618707579"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<section class="main">
+<div class="row">
+{% for post in paginator.posts %}
+<div class="column">
+<a href="{{site.baseurl}}{{post.url}}">
+<img src="{{post.image}}">
+<p style="font-size: 1em; padding: 1px 20px;">{{ post.title }}</p>
+</a>
+</div>
+{% endfor %}
+</div>
+<br/>
+{% if paginator.previous_page %}
+{% if paginator.previous_page == 1 %}
+<a style="border: 1px solid #dedede; padding: 10px;" href="{{site.baseurl}}/{{ include.basepath }}" title="Previous Page">Newer</a>
+{% else %}
+<a style="border: 1px solid #dedede; padding: 10px;" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Previous Page">Newer </a>
+{% endif %}
+{% endif %}
+<span> &nbsp; &nbsp; Page {{paginator.page}} of {{paginator.total_pages}} &nbsp; &nbsp; </span>
+{% if paginator.next_page %} 
+<a style="border: 1px solid #dedede; padding: 10px;" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Next Page">Older</a>
+{% endif %}  
+</section>
