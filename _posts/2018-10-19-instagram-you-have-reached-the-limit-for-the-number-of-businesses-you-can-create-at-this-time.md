@@ -7,7 +7,7 @@ image: /assets/images/instagram-wallpaper.jpg
 ---
 Update 20 Mei 2020 - Beberapa pengguna Instagram tentu ada yang ingin memaksimalkan fitur apa saja yang disediakan untuk mereka, atau sekedar mencoba saja karena rasa ingin tahu. Fitur yang sering menjadi perhatian biasanya adalah "<i>Switch to Professional Account</i>" yang ada di menu <i>Edit Profile</i>, apabila pengguna Instagram masih <i>Personal Account</i>. Dalam postingan ini tidak akan saya bahas bagaimana cara menjadikan akun Instagram dari <i>Personal Account</i> menjadi <i>Professional Account Business/Creator</i>, karena berbagai situs sudah banyak yang menjelaskan hal tersebut. Yang menjadi permasalahan adalah ketika dari <i>Business Account</i> sudah beralih ke <i>Personal Account</i> dan ingin "<i>Switch to Professional Account</i>" <i>Business</i> lagi, kebanyakan akan mendapati pesan seperti ini "<i>You Have Reached the limit for the number of Businesses you can create at this time</i>".<br />
 <br />
-<div style="text-align: center; width: 100%; max-width: 600px;">
+<div style="text-align: center; float: center; width: 100%; max-width: 300px;">
 <img src="/assets/images/You-Have-Reached-the-limit-for-the-number-of-Businesses-you-can-create-at-this-time.jpg">
 </div><br />
 <br />
