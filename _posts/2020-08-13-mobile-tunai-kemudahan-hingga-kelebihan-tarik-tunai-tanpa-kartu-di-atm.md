@@ -7,7 +7,7 @@ image: /assets/images/Mobile-Tunai-BNI-Kemudahan-Hingga-Kelebihan-Tarik-Tunai-Ta
 ---
 Inovasi yang memudahkan pengguna dalam bertransaksi semakin menarik untuk diikuti, salah satunya yaitu ketika tarik tunai di ATM tidak perlu lagi menggunakan kartu. Berikut ini sedikit ulasan tentang kemudahan dan kelebihan berdasarkan pengalaman selama menggunakan mobile tunai.<br />
 <br />
-Baca juga: <a href="https://mohamadrido.com/panduan-dalam-situasi-ketika-uang-kartu-atm-masih-di-mesin-atm-error-gangguan">Panduan Dalam Situasi: Ketika Uang & Kartu ATM Masih Di Mesin ATM (Error Gangguan)</a><br />
+Baca juga: <a style="color: #008eff;" href="https://mohamadrido.com/panduan-dalam-situasi-ketika-uang-kartu-atm-masih-di-mesin-atm-error-gangguan">Panduan Dalam Situasi: Ketika Uang & Kartu ATM Masih Di Mesin ATM (Error Gangguan)</a><br />
 <br />
 1. Sembunyikan Tampilan Jumlah Saldo Terakhir Dari Orang Lain<br />
 <br />
