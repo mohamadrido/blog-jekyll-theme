@@ -33,7 +33,7 @@ Linux <a style="color: #008eff;" href="https://getfedora.org/">Fedora</a> ini ju
 <br />
 <b>Tails</b><br />
 <br />
-<i>Updated 09 Mei 2021</i>: <a style="color: #008eff;" href="https://tails.boum.org/">Tails</a> (The Amnesic Incognito Live System), atau sistem langsung penyamaran amnesik yang saya mulai saya gunakan sejak akhir 2020.<br />
+<i>Updated 09 Mei 2021</i>: <a style="color: #008eff;" href="https://tails.boum.org/">Tails</a> (The Amnesic Incognito Live System), atau sistem langsung penyamaran amnesik yang saya mulai saya gunakan untuk berkerja pada akhir 2020 hingga sekarang.<br />
 <br />
 <div style="text-align: center; float: center; width: 100%; max-width: 800px;">
 <img src="{{site.baseurl}}/assets/images/tails-recommended.png">
