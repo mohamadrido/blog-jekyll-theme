@@ -31,4 +31,17 @@ Linux <a href="https://getfedora.org/">Fedora</a> ini jujur belum pernah mencoba
 <img src="{{site.baseurl}}/assets/images/fedora-live-cd-start.png">
 </div><br />
 <br />
+<b>Tails</b><br />
+<br />
+<i>Updated 09 Mei 2021</i>: <a href="https://tails.boum.org/">Tails</a> (The Amnesic Incognito Live System), atau sistem langsung penyamaran amnesik yang saya mulai saya gunakan sejak akhir 2020.<br />
+<br />
+<div style="text-align: center; float: center; width: 100%; max-width: 800px;">
+<img src="{{site.baseurl}}/assets/images/tails-recommended.png">
+</div><br />
+<i>Tails adalah distribusi Linux berbasis Debian yang berfokus pada keamanan yang ditujukan untuk melestarikan privasi dan anonimitas. Semua koneksi yang masuk dan keluarnya dipaksa untuk melalui TOR, dan koneksi non-anonim diblokir. <a href="https://en.wikipedia.org/wiki/Tails_(operating_system)">Wikipedia</a></i><br />
+<br />
+<div style="text-align: center; float: center; width: 100%; max-width: 600px;">
+<img src="{{site.baseurl}}/assets/images/tails.png">
+</div><br />
+<br />
 Dalam ulasan ini lebih tepatnya mengenai sistem operasi distro linux untuk kebutuhan multimedia yang sering saya pakai. Jika ada kesempatan mendatang akan saya tambahkan lagi.
